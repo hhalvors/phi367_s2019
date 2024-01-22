@@ -3,6 +3,9 @@ title: "Postscript study questions"
 author: Hans Halvorson
 ---
 
+The page numbers here are to the English translation by Howard and
+Edna Hong, published by Princeton University Press.
+
 1.  (p 300) What do you think that K means by "the language of
     abstraction"? In what contexts might it be appropriate to speak in
     the language of abstraction? (See also p 314)
